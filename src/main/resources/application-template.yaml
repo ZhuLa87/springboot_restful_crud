@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: springboot_restful_crud
+  datasource:
+    url: jdbc:mariadb://<YOUR_DB_HOST>:<YOUR_DB_PORT>/<YOUR_DB_NAME>
+    username: <YOUR_DB_USERNAME>
+    password: <YOUR_DB_PASSWORD>
+    driver-class-name: org.mariadb.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.MariaDBDialect
+    properties:
+      hibernate:
+        dialect:
+          storage_engine: innodb
+    show-sql: true
