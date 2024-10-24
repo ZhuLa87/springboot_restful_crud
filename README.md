@@ -24,7 +24,7 @@ Postman - Controller - Service - DAO - DB
 
 ## 專案架構
 
-![專案架構.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0424b886-a353-4a5e-a4a8-ce451266456d/d039f175-eef7-4911-accb-4ac3f787db1b/%E6%88%AA%E5%9C%96_2024-10-22_%E6%99%9A%E4%B8%8A9.50.44.png)
+![專案架構.png](https://i.imgur.com/our9jEc.png)
 
 # 測試
 
